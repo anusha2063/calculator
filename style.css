@@ -1,0 +1,44 @@
+.form{
+    width: 300px;
+    height: 520px;
+    margin: 60px auto;
+    border: 10px solid rgb(255, 255, 255);
+   
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(4, 20, 20);
+    
+    
+}
+
+
+.btn{
+    width: 60px;
+    height: 60px;
+    font-size: large;
+    margin: 4px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+.textview{
+    width: 200px;
+    margin: 6px;
+    font-size: large;
+    padding: 8px;
+    background-color: bisque;
+   
+
+}
+
+body{
+    background-color: rgb(198, 109, 139);
+    align-content: center;
+}
+div.box{
+    align-items: center;
+    
+}
+
